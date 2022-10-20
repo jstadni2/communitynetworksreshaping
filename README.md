@@ -2,7 +2,7 @@
 
 ## Description
 
-The SNAP-Ed Community Networks Dashboard was used by [Illinois SNAP-Ed](https://inep.extension.illinois.edu/who-we-are/our-story/snap-ed) to map SNAP-Ed community networks to census tracts. 
+The SNAP-Ed Community Networks Reshaping App was used by [Illinois SNAP-Ed](https://inep.extension.illinois.edu/who-we-are/our-story/snap-ed) to map SNAP-Ed community networks to census tracts. 
 Illinois Extension defines a SNAP-Ed community network as a geographical area where SNAP-Ed eligible adults live, work, shop, and access community resources.
 The app allows users to select census tracts for a community network and export their GOIDs as a CSV.
 
